@@ -1,0 +1,1 @@
+export const FILTER_FOODS = 'FILTER_FOODS';

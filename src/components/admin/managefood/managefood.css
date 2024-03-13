@@ -1,0 +1,9 @@
+.managefoodcard{
+    text-align: center;
+    margin: 20px 0px 10px 0px;
+}
+.managefoodbuttons button
+{
+    margin: 10px;
+    width: 100px;
+}

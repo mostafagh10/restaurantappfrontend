@@ -1,0 +1,26 @@
+#signinpbackground::before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgb(0, 0, 0, 0.6);
+}
+#signinpbackground * {
+    z-index: 10;
+  }
+.signincom{
+  display: flex;
+  padding-top: 70px;
+  flex-direction: column;
+  height: 75%; /* Add exmple of greeen background */
+}
+.signinform input{
+    margin-top: 50px;
+}
+.signinformat button{
+    width: 130px;
+    margin-top: 20px;
+    font-weight: bold;
+}

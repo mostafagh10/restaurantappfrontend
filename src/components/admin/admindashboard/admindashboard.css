@@ -1,0 +1,12 @@
+.adminbuttonsection{
+    padding: 10px 0px 10px 0px;
+}
+.adminbutton button{
+    text-transform: capitalize;
+    width: 100%;
+}
+@media (max-width:767px){
+    .adminbutton button{
+        margin: 10px 0px 10px 0px;
+    }
+}
